@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning Spring boot framework.
 - 🤔 I’m looking for company to help me grow as a developer.
 
-<br><br><br>
+<br><br>
 # My Skills:
 ### Android development:
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin)](https://skillicons.dev)
