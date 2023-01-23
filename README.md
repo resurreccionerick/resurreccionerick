@@ -3,10 +3,9 @@
 ### A developer who's currently exploring the amazing world of Android & Web Development using Java as primary language.
 
 
-- 🔭 I’m currently a Senior student at STI college of Meycauayan taking BSIT.
-- 👯 I’m looking to have an internship as Java developer.
-- 🌱 I’m currently learning Spring boot framework.
-- 🤔 I’m looking for company to help me grow as a developer.
+- 🔭 I’m currently a Senior student at STI College Meycauayan taking BSIT.
+- 👯 I’m looking to have an Internshi/OJT.
+- 🌱 I’m looking for company to help me grow as a Developer.
 
 <br><br>
 # My Skills:
