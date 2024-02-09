@@ -3,6 +3,15 @@
 Hi! I'm Erick Resurreccion, and I love making mobile apps. It's not just a job to me; it's what I'm passionate about. I've spent a lot of time learning how to create awesome mobile experiences that really make a difference.
 
 ## 📱 Mobile App Developer || Software Engineer
+---
+# Connect with Me
+
+You can connect with me through the following platforms:
+
+- [Facebook](https://www.facebook.com/ResurreccionErick/)
+- [LinkedIn](https://www.linkedin.com/in/erick-resurreccion-624b42248/)
+- [Portfolio](https://resurreccionerick.github.io/)
+
 
 I'm really passionate about creating mobile apps that people love to use. I've explored different ways of building apps to make sure they're the best they can be. Although I've tried cross-platform development with React Native, I'm most skilled at making apps for Android Apps.
 
@@ -48,13 +57,3 @@ I'm really passionate about creating mobile apps that people love to use. I've e
 [![Eclipse](https://skillicons.dev/icons?i=eclipse)](https://skillicons.dev)
 [![Git](https://skillicons.dev/icons?i=git)](https://skillicons.dev)
 [![GitHub](https://skillicons.dev/icons?i=github)](https://skillicons.dev)
-
----
-
-# Connect with Me
-
-You can connect with me through the following platforms:
-
-[![Facebook](https://image.flaticon.com/icons/png/512/1384/1384053.png)]([https://www.facebook.com/your_facebook_username](https://www.facebook.com/ResurreccionErick/))
-[![LinkedIn](https://image.flaticon.com/icons/png/512/174/174857.png)]([https://www.linkedin.com/in/your_linkedin_username](https://www.linkedin.com/in/erick-resurreccion-624b42248/))
-[![Portfolio](https://image.flaticon.com/icons/png/512/84/84380.png)]([https://www.yourportfolio.com](https://resurreccionerick.github.io/)https://resurreccionerick.github.io/)
